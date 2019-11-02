@@ -1,0 +1,35 @@
+<html>
+<head>
+<title></title>
+</head>
+<body style="overflow:hidden">
+<div id="game"></div>
+<SCRIPT LANGUAGE="JavaScript" src="/4399swf/js/chkDomain.js"></SCRIPT>
+<script language="javascript" type="text/javascript">
+window.onerror=function(msg,url,line){
+  return true;
+};
+
+var loading = '<object id="swf1" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="100%" height="100%">';
+loading += '<param name="movie" value="http://www.4399.com/flash/gameloader.swf?isMulti=1&gameswf=game.swf" />';
+loading += '<param name="quality" value="high" />';
+
+loading += '<param name="allowScriptAccess" value="always" />'
+loading += '<embed id="swf1_em" name="swf1" wmode="transparent"  src="http://www.4399.com/flash/gameloader.swf?isMulti=1&gameswf=game.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100%" height="100%" allowScriptAccess="always"></embed>';
+loading += '</object>';
+
+var player = '<object id="swf1" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="100%" height="100%">';
+player += '<param name="movie" value="game.swf?apiUrl=minigameapi22.swf&apiConfigUrl=minigameAPIConfig.xml&gameConfigUrl=8412.xml" />';
+player += '<param name="quality" value="high" />';
+
+player += '<embed id="swf1_em" name="swf1" wmode="transparent"  src="game.swf?apiUrl=minigameapi22.swf&apiConfigUrl=minigameAPIConfig.xml&gameConfigUrl=8412.xml" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100%" height="100%"></embed>';
+player += '</object>';
+
+document.getElementById("game").innerHTML = loading;
+function gameLoaded(){
+	document.getElementById("game").innerHTML = player;
+	parent.document.getElementById("addiv").style.display='none'
+}
+</script>
+</body>
+</html>

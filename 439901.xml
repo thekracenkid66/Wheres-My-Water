@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<acailoader>
+	<!-- 这个地方设置游戏主文件 -->
+	<mainswf name="game.swf?apiUrl=minigameapi22.swf&apiConfigUrl=minigameAPIConfig.xml&gameConfigUrl=8412.xml" />
+	<!-- 这个地方设置其余的游戏文件 -->
+	<files>
+		<file url="minigameapi22.swf" />
+		<file url="minigameAPIConfig.xml" />
+		<file url="8412.xml" />
+		<file url="analyticReportingAS3.swf" />		
+		<file url="game_config.xml" />
+		<file url="strings/strings.xml" />
+		<file url="loader.swf" />
+		<file url="wmw_spl_act_wheresmywater_content.swf" />
+		<file url="images/show_logo.png" />
+		<file url="images/game_logo.png" />
+		<file url="swfs/swampy.swf" />
+		<file url="swfs/sounds.swf" />
+		<file url="swfs/level_container.swf" />
+		<file url="swfs/cranky.swf" />
+		<file url="Content/Textures/room-HD.png" />
+		<file url="Content/Textures/room_overlay-HD.png" />
+		<file url="Content/Textures/Endcap-01-HD.jpg" />
+		<file url="Content/Textures/level_end_cap.jpg" />
+		<file url="swfs/sounds2.swf" />
+		<file url="Content/Textures/dirt.png" />
+		<file url="Content/Textures/rock.png" />
+		<file url="Content/Textures/rockshadow.png" />
+		<file url="Content/Textures/rockhilight.png" />
+		<file url="Content/Textures/bricks.png" />
+		<file url="Content/Textures/water_alpha.png" />
+		<file url="Content/Textures/water_color.png" />
+		<file url="Content/Textures/water_color_ooze.png" />
+		<file url="Content/Textures/new_particle_atlas.imagelist" />
+		<file url="Content/Textures/objects.imagelist" />
+		<file url="Content/Textures/new_particle_atlas.png" />
+		<file url="Content/Textures/objects.png" />
+	</files>
+</acailoader>

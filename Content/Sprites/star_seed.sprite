@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Sprite>
+	<Animation name="SEED_EMPTY" textureBasePath="/Textures/" atlas="/Textures/objects.imagelist" fps="1.0" playbackMode="ONCE" loopCount="2">
+		<Frame name="RUBBER_D_EMPTY.png" />
+	</Animation>
+	<Animation name="SEED_FILL_0" textureBasePath="/Textures/" atlas="/Textures/objects.imagelist" fps="20.0" playbackMode="LOOP" loopCount="-1">
+		<Frame name="Rub_D_1_Frame-0.png" />
+		<Frame name="Rub_D_1_Frame-1.png" />
+		<Frame name="Rub_D_1_Frame-2.png" />
+		<Frame name="Rub_D_1_Frame-3.png" />
+		<Frame name="Rub_D_1_Frame-4.png" />
+		<Frame name="Rub_D_1_Frame-5.png" />
+		<Frame name="Rub_D_1_Frame-6.png" />
+		<Frame name="Rub_D_1_Frame-7.png" />
+		<Frame name="Rub_D_1_Frame-8.png" />
+		<Frame name="Rub_D_1_Frame-9.png" />
+		<Frame name="Rub_D_1_Frame-10.png" />
+		<Frame name="Rub_D_1_Frame-11.png" />
+		<Frame name="Rub_D_1_Frame-12.png" />
+		<Frame name="Rub_D_1_Frame-13.png" />
+		<Frame name="Rub_D_1_Frame-14.png" />
+		<Frame name="Rub_D_1_Frame-15.png" />
+	</Animation>
+	<Animation name="SEED_FILL_1" textureBasePath="/Textures/" atlas="/Textures/objects.imagelist" fps="20.0" playbackMode="LOOP" loopCount="-1">
+		<Frame name="Rub_D_2_Frame-0.png" />
+		<Frame name="Rub_D_2_Frame-1.png" />
+		<Frame name="Rub_D_2_Frame-2.png" />
+		<Frame name="Rub_D_2_Frame-3.png" />
+		<Frame name="Rub_D_2_Frame-4.png" />
+		<Frame name="Rub_D_2_Frame-5.png" />
+		<Frame name="Rub_D_2_Frame-6.png" />
+		<Frame name="Rub_D_2_Frame-7.png" />
+		<Frame name="Rub_D_2_Frame-8.png" />
+		<Frame name="Rub_D_2_Frame-9.png" />
+		<Frame name="Rub_D_2_Frame-10.png" />
+		<Frame name="Rub_D_2_Frame-11.png" />
+		<Frame name="Rub_D_2_Frame-12.png" />
+		<Frame name="Rub_D_2_Frame-13.png" />
+		<Frame name="Rub_D_2_Frame-14.png" />
+		<Frame name="Rub_D_2_Frame-15.png" />
+	</Animation>
+	<Animation name="SEED_FILL_2" textureBasePath="/Textures/" atlas="/Textures/objects.imagelist" fps="20.0" playbackMode="LOOP" loopCount="-1">
+		<Frame name="Rub_D_3_Frame-0.png" />
+		<Frame name="Rub_D_3_Frame-1.png" />
+		<Frame name="Rub_D_3_Frame-2.png" />
+		<Frame name="Rub_D_3_Frame-3.png" />
+		<Frame name="Rub_D_3_Frame-4.png" />
+		<Frame name="Rub_D_3_Frame-5.png" />
+		<Frame name="Rub_D_3_Frame-6.png" />
+		<Frame name="Rub_D_3_Frame-7.png" />
+		<Frame name="Rub_D_3_Frame-8.png" />
+		<Frame name="Rub_D_3_Frame-9.png" />
+		<Frame name="Rub_D_3_Frame-10.png" />
+		<Frame name="Rub_D_3_Frame-11.png" />
+		<Frame name="Rub_D_3_Frame-12.png" />
+		<Frame name="Rub_D_3_Frame-13.png" />
+		<Frame name="Rub_D_3_Frame-14.png" />
+		<Frame name="Rub_D_3_Frame-15.png" />
+	</Animation>
+	<Animation name="SEED_FILL_3" textureBasePath="/Textures/" atlas="/Textures/objects.imagelist" fps="20.0" playbackMode="LOOP" loopCount="-1">
+		<Frame name="Rub_D_4_Frame-0.png" />
+		<Frame name="Rub_D_4_Frame-1.png" />
+		<Frame name="Rub_D_4_Frame-2.png" />
+		<Frame name="Rub_D_4_Frame-3.png" />
+		<Frame name="Rub_D_4_Frame-4.png" />
+		<Frame name="Rub_D_4_Frame-5.png" />
+		<Frame name="Rub_D_4_Frame-6.png" />
+		<Frame name="Rub_D_4_Frame-7.png" />
+		<Frame name="Rub_D_4_Frame-8.png" />
+		<Frame name="Rub_D_4_Frame-9.png" />
+		<Frame name="Rub_D_4_Frame-10.png" />
+		<Frame name="Rub_D_4_Frame-11.png" />
+		<Frame name="Rub_D_4_Frame-12.png" />
+		<Frame name="Rub_D_4_Frame-13.png" />
+		<Frame name="Rub_D_4_Frame-14.png" />
+		<Frame name="Rub_D_4_Frame-15.png" />
+	</Animation>
+	<Animation name="SEED_FILL_4" textureBasePath="/Textures/" atlas="/Textures/objects.imagelist" fps="10.0" playbackMode="ONCE" loopCount="2">
+		<Frame name="RUBBER_D_FULL.png" />
+	</Animation>
+</Sprite>

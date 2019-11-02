@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImageList imgSize="1024 512" file="/Textures/collectibles.png" textureBasePath="/Textures/" >
+	
+	<Image name="Collect_5_0.png" offset="0 0" size="64 64" rect="952 0 64 64"  />
+	
+	<Image name="Collect_5_1.png" offset="0 0" size="64 64" rect="952 64 64 64"  />
+	
+	<Image name="Collect_5_2.png" offset="0 0" size="64 64" rect="952 128 64 64"  />
+	
+	<Image name="Collect_5_3.png" offset="0 0" size="64 64" rect="952 192 64 64"  />
+	
+	<Image name="Collect_5_4.png" offset="0 0" size="64 64" rect="928 256 64 64"  />
+	
+	<Image name="Collect_5_5.png" offset="0 0" size="64 64" rect="928 320 64 64"  />
+	
+	<Image name="Collect_Bow.png" offset="0 0" size="116 116" rect="256 0 116 116"  />
+	
+	<Image name="Collect_Brush.png" offset="0 0" size="116 116" rect="372 0 116 116"  />
+	
+	<Image name="Collect_Captain_Hat.png" offset="0 0" size="116 116" rect="488 0 116 116"  />
+	
+	<Image name="Collect_Flipper.png" offset="0 0" size="116 116" rect="604 0 116 116"  />
+	
+	<Image name="Collect_Floatie.png" offset="0 0" size="116 116" rect="720 0 116 116"  />
+	
+	<Image name="Collect_Floss.png" offset="0 0" size="116 116" rect="836 0 116 116"  />
+	
+	<Image name="Collect_Goggles.png" offset="0 0" size="116 116" rect="256 116 116 116"  />
+	
+	<Image name="Collect_Heart.png" offset="0 0" size="116 116" rect="0 128 116 116"  />
+	
+	<Image name="Collect_Lifesaver.png" offset="0 0" size="116 116" rect="116 128 116 116"  />
+	
+	<Image name="Collect_Loofah.png" offset="0 0" size="116 116" rect="372 116 116 116"  />
+	
+	<Image name="Collect_Perfume.png" offset="0 0" size="116 116" rect="488 116 116 116"  />
+	
+	<Image name="Collect_Picnic_Basket.png" offset="0 0" size="116 116" rect="604 116 116 116"  />
+	
+	<Image name="Collect_Radio.png" offset="0 0" size="116 116" rect="720 128 116 116"  />
+	
+	<Image name="Collect_Rose.png" offset="0 0" size="116 116" rect="836 128 116 116"  />
+	
+	<Image name="Collect_Scope.png" offset="0 0" size="116 116" rect="232 232 116 116"  />
+	
+	<Image name="Collect_Shampoo.png" offset="0 0" size="116 116" rect="0 244 116 116"  />
+	
+	<Image name="Collect_Soap.png" offset="0 0" size="116 116" rect="116 244 116 116"  />
+	
+	<Image name="Collect_Soda.png" offset="0 0" size="116 116" rect="348 232 116 116"  />
+	
+	<Image name="Collect_Spoon.png" offset="0 0" size="116 116" rect="464 232 116 116"  />
+	
+	<Image name="Collect_Teacup.png" offset="0 0" size="116 116" rect="580 232 116 116"  />
+	
+	<Image name="Collect_Teapot.png" offset="0 0" size="116 116" rect="696 244 116 116"  />
+	
+	<Image name="Collect_Teddy_Bear.png" offset="0 0" size="116 116" rect="812 256 116 116"  />
+	
+	<Image name="Collect_Toothbrush.png" offset="0 0" size="116 116" rect="232 348 116 116"  />
+	
+	<Image name="Collect_Toothpaste.png" offset="0 0" size="116 116" rect="0 360 116 116"  />
+	
+	<Image name="Starburst.png" offset="0 0" size="128 128" rect="0 0 128 128"  />
+	
+	<Image name="Starburst_White.png" offset="0 0" size="128 128" rect="128 0 128 128"  />
+	
+</ImageList>
